@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="alwo-SendComplexMessageFromService.ZPM">
+    <Module>
+      <Name>alwo-SendComplexMessageFromService</Name>
+      <Version>1.0.0</Version>
+      <Description>Send complex deep objects as XML from Production Services</Description>
+      <Keywords>test send complex messages xml</Keywords>
+      <Packaging>module</Packaging>
+      <SourcesRoot>udl</SourcesRoot>
+	  <Resource Name="alwo.integ.SendComplexMessageFromService.CLS"/>
+    </Module>
+  </Document>
+</Export>
